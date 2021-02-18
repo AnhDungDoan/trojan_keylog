@@ -1,2 +1,2 @@
 # trojan_keylog
-this trojan is guided by dunglailaptrinh
+this trojan has inspiration from dunglailaptrinh.
