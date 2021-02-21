@@ -25,3 +25,14 @@
 # what is 'browser.bat'
 
 `'browser.bat'` is a file that runs as the command in window, it can open browser you add in and 'trojan_keylog' at the same time. Besides that, 'trojan_keylog' run in the background and no one cannot relise it except for ***task manager***.
+
+# warning!
+
+do not use this project for illegal!
+
+# feedback
+
+If there is any bug, please send feedback to:
+https://www.facebook.com/gnudnaod/
+or send an email to:
+khongphaidoandung@gmail.com
