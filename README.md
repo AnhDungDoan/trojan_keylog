@@ -4,14 +4,10 @@
 # how it works
 >This python code is written to transform the letters from the keyboard while you type and save it to "log.txt" as a text file
 
-***note:***
-
-  ***key.enter is '\n'***
-  
-  ***key.tab is '    '***
-  
-  ***key.space is ' '***
-
+***note:***\
+    ***key.enter is '\n'***\
+    ***key.tab is '    '*** \
+    ***key.space is ' '*** \
 >It can run in the background while you open a browser, for example, chrome, edge,... 
 
 # how to use
@@ -32,9 +28,7 @@ do not use this project for illegal!
 
 # feedback
 
-If there is any bug, please send feedback to:
-
-https://www.facebook.com/gnudnaod/
-or send an email to:
-
-khongphaidoandung@gmail.com
+If there is any bug, please send feedback to:\
+https://www.facebook.com/gnudnaod/ \
+or send an email to:\
+khongphaidoandung@gmail.com 
