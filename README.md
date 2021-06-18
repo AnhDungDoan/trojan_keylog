@@ -1,5 +1,4 @@
 # trojan_keylog
->this trojan has inspiration from dunglailaptrinh.
 
 # how it works
 >This python code is written to transform the letters from the keyboard while you type and save it to "log.txt" as a text file
